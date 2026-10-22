@@ -1,0 +1,10 @@
+data/
+results/
+logs/
+tmp/
+env/conda/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+._*
